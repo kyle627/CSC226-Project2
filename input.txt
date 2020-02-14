@@ -1,0 +1,13 @@
+Argentina,Buenos Aires
+Bolivia,Sucre 
+Brazil,Brasilia
+Chile,Santiago
+Colombia,Bogota
+Ecuador,Quito
+French Guinea,Cayenne
+Guyana,Georgetown
+Paraguay,Asuncion
+Peru,Lima
+Suriname,Paramaribo
+Uruguay,Montevideo
+Venezuela,Caracas
